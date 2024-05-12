@@ -16,7 +16,7 @@ function ResumePage() {
               </Link>
         
       </div>
-          <img src="https://res.cloudinary.com/vivekgujral/image/upload/v1715416554/lrqbk3nw6lbhfrmwd2zc.jpg" alt='Resume Image'  className=' h-full'/>
+          <img src="https://res.cloudinary.com/vivekgujral/image/upload/v1715506242/euaimudotbfz7eykabud.jpg" alt='Resume Image'  className=' h-full'/>
     </section>
   )
 }
